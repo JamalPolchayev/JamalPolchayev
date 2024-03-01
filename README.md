@@ -18,12 +18,12 @@
 
 [![Python](https://img.shields.io/badge/Python%20-%20lightblue?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask%20-%20Grey?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
-[![HTML5](https://img.shields.io/badge/Html5-%20%23E34F26?style=for-the-badge&logo=Html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
- [![CSS](https://img.shields.io/badge/css-%20%231572B6?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
- [![SQLAlchemy](https://img.shields.io/badge/SQLALACHEMY%20-%20%23D71F00?style=for-the-badge)](https://www.sqlalchemy.org/) 
- [![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%20%237952B3?style=for-the-badge)](https://getbootstrap.com/) 
- [![Git](https://img.shields.io/badge/Git%20-%20%23F05032?style=for-the-badge)](https://git-scm.com/) 
- [![GitHub](https://img.shields.io/badge/Github%20-%20%23181717?style=for-the-badge)](https://github.com/)
+[![HTML5](https://img.shields.io/badge/Html5-orange?style=for-the-badge&logo=Html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS](https://img.shields.io/badge/Css%20-%20blue?style=for-the-badge&logo=Css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SQLAlchemy](https://img.shields.io/badge/SQlalchemy%20-%20darkred?style=for-the-badge&logo=SqlAlchemy)](https://www.sqlalchemy.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%20purple?style=for-the-badge&logo=Bootstrap)](https://getbootstrap.com/)
+[![Git](https://img.shields.io/badge/Git%20-%20orange?style=for-the-badge&logo=Git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/Github%20-%20black?style=for-the-badge&logo=Github)](https://github.com/)
 
 
 
