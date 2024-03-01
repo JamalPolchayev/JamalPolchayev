@@ -1,4 +1,4 @@
-# <img src="https://github.com/FlyingPie432/FlyingPie432/raw/main/assets/jamal.gif" alt="Jamal GIF" width="400 heigt="200"" />
+# <img src="https://github.com/FlyingPie432/FlyingPie432/raw/main/assets/jamal.gif" alt="Jamal GIF" width="400" height="200" />
 
 About me
 
