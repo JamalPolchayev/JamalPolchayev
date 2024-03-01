@@ -18,6 +18,6 @@ Feel free to customize and expand upon this draft to better reflect your skills,
 
 
 Language and Tools
-![Python](https://img.shields.io.badge/%3CLABEL%3E-%3CMESSAGE%3E-%3CCOLOR%3E)
+![Python](https://img.shields.io/badge/:badgeContent)
 
 
