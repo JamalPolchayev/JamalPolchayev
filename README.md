@@ -18,6 +18,7 @@ Feel free to customize and expand upon this draft to better reflect your skills,
 
 
 Language and Tools
-![GitHub last commit](https://img.shields.io/github/last-commit/FlyingPie432/FlyingPie432)
+![Python Version](https://img.shields.io/badge/Python-3.9-yellow)
+
 
 
