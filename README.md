@@ -18,6 +18,6 @@ Feel free to customize and expand upon this draft to better reflect your skills,
 
 
 Language and Tools
-![Python]([https://img.shields.io/github/license/FlyingPie432/FlyingPie432](https://img.shields.io/badge/:badgeContent)https://img.shields.io/badge/:badgeContent)
+![GitHub last commit](https://img.shields.io/github/last-commit/FlyingPie432/FlyingPie432)
 
 
