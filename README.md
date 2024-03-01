@@ -19,7 +19,9 @@ Feel free to customize and expand upon this draft to better reflect your skills,
 
 ## Language and Tools
 
-[![Python Version](https://img.shields.io/badge/Python-yellow?style=for-the-badge)](https://www.python.org/) [![Flask](https://img.shields.io/badge/Flask-%23000000?style=for-the-badge)](https://flask.palletsprojects.com/)
+[![Python Version](https://img.shields.io/badge/Python-yellow?style=for-the-badge)](https://www.python.org/) [![Flask](https://img.shields.io/badge/Flask-%23000000?style=for-the-badge)](https://flask.palletsprojects.com/) [![HTML5](https://img.shields.io/badge/Html5%20-%20%23E34F26?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![CSS](https://img.shields.io/badge/css-%20%231572B6?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+
 
 
 
