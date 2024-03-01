@@ -17,7 +17,7 @@
 ## Language and Tools
 
 [![Python](https://img.shields.io/badge/Python%20-%20lightblue?style=for-the-badge&logo=python)](https://www.python.org/)
- [![Flask](https://img.shields.io/badge/Flask-%23000000?style=for-the-badge)](https://flask.palletsprojects.com/)
+[![Flask](https://img.shields.io/badge/Flask%20-%20Grey?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
  [![HTML5](https://img.shields.io/badge/Html5%20-%20%23E34F26?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![CSS](https://img.shields.io/badge/css-%20%231572B6?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![SQLAlchemy](https://img.shields.io/badge/SQLALACHEMY%20-%20%23D71F00?style=for-the-badge)](https://www.sqlalchemy.org/) [![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%20%237952B3?style=for-the-badge)](https://getbootstrap.com/) [![Git](https://img.shields.io/badge/Git%20-%20%23F05032?style=for-the-badge)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/Github%20-%20%23181717?style=for-the-badge)](https://github.com/)
 
 
