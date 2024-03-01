@@ -16,8 +16,7 @@
 
 Feel free to customize and expand upon this draft to better reflect your skills, experiences, and personality. Let me know if you need further assistance!
 
-Latest Youtube Videos
 
 Language and Tools
 
-Follow me
+
