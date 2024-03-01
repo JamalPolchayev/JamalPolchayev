@@ -2,7 +2,7 @@
 
 ## About Me
 
-👋 Hello! I'm [Your Name], a passionate Python developer with a keen interest in web development. I recently completed learning Python and have been exploring its various applications, including web development with Flask.
+👋 Hello! I'm Jamal, a passionate Python developer with a keen interest in web development. I recently completed learning Python and have been exploring its various applications, including web development with Flask.
 
 🐍 I have a solid understanding of Python programming language and can comfortably develop small projects using Flask framework. Whether it's building web applications or RESTful APIs, I enjoy leveraging the simplicity and flexibility of Flask to bring ideas to life.
 
