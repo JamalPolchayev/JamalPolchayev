@@ -18,9 +18,8 @@ Feel free to customize and expand upon this draft to better reflect your skills,
 
 
 Language and Tools
-[![Python Version](https://img.shields.io/badge/Python-3.9-blue)
-](https://img.shields.io/badge/Python-yellow?style=for-the-badge
-)https://img.shields.io/badge/Python-yellow?style=for-the-badge
+[![Python Version](https://img.shields.io/badge/Python-yellow?style=for-the-badge)](https://www.python.org/)
+
 
 
 
