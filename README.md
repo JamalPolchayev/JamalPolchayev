@@ -19,7 +19,7 @@ Feel free to customize and expand upon this draft to better reflect your skills,
 
 ## Language and Tools
 
-[![Python Version](https://img.shields.io/badge/Python-yellow?style=for-the-badge)](https://www.python.org/) <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQwIiBoZWlnaHQ9IjE0MCIgdmlld0JveD0iMCAwIDE0MCAxNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0ibm9uZSI+CiAgPGc+CiAgICA8Y2lyY2xlIGN4PSIxMCIgY3k9IjEwIiByPSIzIiBmaWxsPSIjMDAwMDAwIi8+CiAgPC9nPgo8L3N2Zz4=" alt="Flask Dark Green" />
+[![Python Version](https://img.shields.io/badge/Python-yellow?style=for-the-badge)](https://www.python.org/) [![Flask](https://img.shields.io/badge/Flask-%23000000?style=for-the-badge)](https://flask.palletsprojects.com/)
  [![HTML5](https://img.shields.io/badge/Html5%20-%20%23E34F26?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![CSS](https://img.shields.io/badge/css-%20%231572B6?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![SQLAlchemy](https://img.shields.io/badge/SQLALACHEMY%20-%20%23D71F00?style=for-the-badge)](https://www.sqlalchemy.org/)
 
 
