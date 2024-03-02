@@ -25,6 +25,12 @@
 [![Git](https://img.shields.io/badge/Git%20-%20orange?style=for-the-badge&logo=Git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/Github%20-%20black?style=for-the-badge&logo=Github)](https://github.com/)
 
+# Python Course
+
+- **Platform:** Coursera
+- **Completion Date:** January 1, 2024
+- **Description:** This course covered the fundamentals of Python programming, including data types, control structures, and functions.
+
 
 
 
