@@ -27,7 +27,11 @@
 
 ## My Completed Courses
 
-You can **[download my Coursera certificate](./assets/Coursera%205CYHVY83N5DJ.pdf)** for "Programming for Everybody (Getting Started with Python)".
+| Course Name                                          | Certificate                                                | Completion Date |
+|------------------------------------------------------|------------------------------------------------------------|-----------------|
+| Programming for Everybody (Getting Started with Python) | [Download Certificate](./assets/Coursera%205CYHVY83N5DJ.pdf) | 22.05.2023      |
+
+
 
 
 
