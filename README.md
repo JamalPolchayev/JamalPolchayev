@@ -27,10 +27,8 @@
 
 ## My Completed Courses
 
-Course Name: Programming for Everybody (Getting Started with Python)
-Platform: Coursera
-Completion Date: 22.05.2023
-Description: This course introduces the basics of programming using the Python programming language. Topics covered include variables, expressions, conditionals, loops, and functions.
+You can [download my Coursera certificate](./assets/Coursera%205CYHVY83N5DJ.pdf) for "Programming for Everybody (Getting Started with Python)".
+
 
 
 
