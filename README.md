@@ -27,7 +27,11 @@
 
 ## My Completed Courses
 
-Check out my completed courses on [MyCourses](https://github.com/yourusername/MyCourses)!
+Course Name: Programming for Everybody (Getting Started with Python)
+Platform: Coursera
+Completion Date: 22.05.2023
+Description: This course introduces the basics of programming using the Python programming language. Topics covered include variables, expressions, conditionals, loops, and functions.
+
 
 
 
