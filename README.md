@@ -27,7 +27,8 @@
 
 ## My Completed Courses
 
-You can [download my Coursera certificate](./assets/Coursera%205CYHVY83N5DJ.pdf) for "Programming for Everybody (Getting Started with Python)".
+You can **[download my Coursera certificate](./assets/Coursera%205CYHVY83N5DJ.pdf)** for "Programming for Everybody (Getting Started with Python)".
+
 
 
 
