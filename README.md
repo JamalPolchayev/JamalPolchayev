@@ -4,27 +4,46 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Python developer focused on backend and web development.  
-I enjoy building clean and efficient web applications using Flask, SQLAlchemy, and REST APIs.
+I'm a Python developer with a focus on backend and web development.  
+I have hands-on experience building RESTful APIs and web applications using frameworks like Flask and Django. I enjoy solving complex problems and continuously improving my skills.
 
-🔹 I have hands-on experience with:
-- Creating backend apps using Flask and Django
-- Working with databases like SQLite and PostgreSQL
-- Git, GitHub, Docker (basic), and Linux (via WSL)
-- Making and testing HTTP requests via Postman
-
-🌱 Currently, I'm diving deeper into:
+Currently, I'm diving deeper into:
 - Object-Oriented Programming (OOP)
-- Automated testing with `pytest`
-- API development using FastAPI
+- API development with FastAPI
+- Testing with pytest and improving my CI/CD pipeline
+
+I'm passionate about writing clean, scalable, and efficient code, and I always strive to stay up-to-date with best practices in the development world.
 
 💬 I'm open to internships, junior developer roles, and collaborative projects.  
 Let’s build something awesome together!
 
 ---
 
+## 🧑‍💻 Skills & Technologies
+
+- **Backend Development**: Flask, Django, FastAPI  
+- **Databases**: PostgreSQL, SQLite  
+- **Version Control**: Git, GitHub  
+- **Containerization**: Docker (basic usage)  
+- **APIs**: RESTful APIs, Postman  
+- **Testing**: Pytest  
+- **Operating Systems**: Linux (via WSL)
+
+---
+
+## 🎓 Completed Courses
+
+| Course Name                                             | Platform     | Certificate                                                                 | Skills Gained                                         | Date       |
+|---------------------------------------------------------|--------------|-----------------------------------------------------------------------------|------------------------------------------------------|------------|
+| Programming for Everybody (Getting Started with Python) | Coursera     | [View Certificate](https://github.com/JamalPolchayev/JamalPolchayev/blob/main/assets/Coursera%205CYHVY83N5DJ.pdf) | Python basics, Data Structures, Functions             | May 2023   |
+| Python Backend Web Development                          | Udemy        | [View Certificate](https://github.com/JamalPolchayev/JamalPolchayev/blob/main/assets/udemy%20python%20certificate.pdf) | Backend architecture, Flask, REST APIs, Databases     | May 2024   |
+
+---
+
 ## 🚀 Projects
 
+<!-- Uncomment and add your project links when ready -->
+<!--
 - 📦 **Flask Expense Tracker API**  
   RESTful API for managing personal expenses  
   Stack: Flask, SQLAlchemy, PostgreSQL, Docker  
@@ -39,6 +58,7 @@ Let’s build something awesome together!
   Flask app that pulls weather data from external API  
   Stack: Flask, OpenWeather API, HTML/CSS  
   🔗 [GitHub](https://github.com/yourusername/weather-dashboard)
+-->
 
 ---
 
@@ -59,19 +79,17 @@ Let’s build something awesome together!
 
 ---
 
-## 🎓 Completed Courses
-
-| Course Name                                             | Platform     | Certificate                                                                 | Date       |
-|---------------------------------------------------------|--------------|-----------------------------------------------------------------------------|------------|
-| Programming for Everybody (Getting Started with Python) | Coursera     | [View Certificate](https://github.com/JamalPolchayev/JamalPolchayev/blob/main/assets/Coursera%205CYHVY83N5DJ.pdf) | May 2023   |
-| Python Backend Web Development                          | Udemy        | [View Certificate](https://github.com/JamalPolchayev/JamalPolchayev/blob/main/assets/udemy%20python%20certificate.pdf)                                         | May 2024  |
-
-
----
-
 ## 📈 GitHub Stats
 
-![Jamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Jamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamalPolchayev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamalPolchayev&layout=compact&theme=tokyonight)
 
 ---
 
+## 📬 Contact
+
+Feel free to reach out to me for any collaborations, job opportunities, or just to chat about Python and tech!  
+You can reach me at:  
+✉️ [Email](mailto:your-email@example.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
+🔗 [GitHub](https://github.com/JamalPolchayev)
