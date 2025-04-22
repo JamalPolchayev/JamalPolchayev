@@ -64,7 +64,7 @@ Let’s build something awesome together!
 | Course Name                                             | Platform     | Certificate                                                                 | Date       |
 |---------------------------------------------------------|--------------|-----------------------------------------------------------------------------|------------|
 | Programming for Everybody (Getting Started with Python) | Coursera     | [View Certificate](https://github.com/JamalPolchayev/JamalPolchayev/blob/main/assets/Coursera%205CYHVY83N5DJ.pdf) | May 2023   |
-| Python Backend Web Development                          | Udemy        | [View Certificate](LINK_TO_2ND_CERT)                                         | July 2023  |
+| Python Backend Web Development                          | Udemy        | [View Certificate](https://github.com/JamalPolchayev/JamalPolchayev/blob/main/assets/udemy%20python%20certificate.pdf)                                         | July 2023  |
 
 
 ---
