@@ -1,55 +1,55 @@
-# 👋 Hi, I'm Jamal  
-Python Backend Developer | Passionate Learner
+# 👋 Hi, I'm Jamal
+
+I’m a Python backend developer who loves building robust, scalable web applications. Whether it’s working with frameworks like **Flask** and **Django**, or managing databases with **PostgreSQL**, I’m passionate about creating clean, efficient solutions.
+
+I’m always excited to learn new technologies and improve my skills. Currently, I’m diving deeper into **API development**, **automated testing**, and **advanced Python techniques**.
 
 ---
 
-## 💬 A Bit About Me
+## 🚀 What I Do
 
-I’m a Python developer focused on backend and web development, with a passion for building clean, scalable applications. I specialize in using **Flask**, **Django**, and integrating databases like **PostgreSQL** and **SQLite**. My problem-solving skills and dedication to writing efficient, maintainable code define my approach to development.
-
-I’m currently sharpening my skills in **API development**, **Object-Oriented Programming (OOP)**, and **automated testing**.
-
----
-
-## 💻 Technology Stack
-
-**Languages & Frameworks**: Python, Flask, Django, FastAPI, JavaScript  
-**Databases**: PostgreSQL, SQLite, MySQL  
-**DevOps & Tools**: Docker, Git, GitHub, GitLab, Kubernetes, Nginx  
-**Additional Skills**: SQLAlchemy, Celery, Bootstrap, jQuery, HTML, CSS, Selenium
+- **Backend Development**: Building applications using **Flask** and **Django**.
+- **Databases**: Designing and managing **PostgreSQL**, **SQLite** databases.
+- **APIs**: Creating RESTful APIs with **Flask** and **FastAPI**.
+- **Testing**: Writing automated tests with **pytest** to ensure high-quality code.
 
 ---
 
-## 🏆 Featured Projects
+## 🛠️ Technologies I Use
 
-| Project Name                  | Description                                                                                                                                           |
-|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Flask Expense Tracker API**  | A RESTful API to track and manage personal expenses using **Flask**, **SQLAlchemy**, **PostgreSQL**, and **Docker**.                                  |
-| **Django E-Commerce Website**  | A simple online store built with **Django** featuring user authentication, cart management, and an admin interface.                                   |
-| **Weather Dashboard**          | A **Flask** app pulling real-time weather data via the **OpenWeather API** and displaying it in an interactive user interface with **HTML**/**CSS**.  |
-| **PostgreSQL Database Manager**| A **Flask** web app that allows users to interact with **PostgreSQL** databases, performing CRUD operations via a simple interface.                   |
-
----
-
-## 📊 Achievements & Stats
-
-- **LeetCode**: [Your Profile Link]  
-- **Codewars**: [Your Profile Link]  
+- **Languages**: Python, JavaScript  
+- **Frameworks**: Flask, Django, FastAPI  
+- **Databases**: PostgreSQL, SQLite  
+- **Dev Tools**: Docker, Git, GitHub  
+- **Web Technologies**: HTML, CSS, Bootstrap  
+- **Others**: SQLAlchemy, Celery, Postman
 
 ---
 
-## 📞 Contact Me
+## 🖥️ Quick Tech Summary
 
-If you'd like to connect, collaborate, or have any questions, feel free to reach out to me:
-
-✉️ Email: [your-email@example.com]  
-💼 LinkedIn: [Your LinkedIn Profile]  
-🌐 GitHub: [https://github.com/JamalPolchayev](https://github.com/JamalPolchayev)  
-💼 Kwork: [Link to Kwork Profile]  
-🌐 Portfolio: [Your Portfolio Link]
+**Languages**: Python, JavaScript | **Frameworks**: Flask, Django, FastAPI | **Databases**: PostgreSQL, SQLite | **Dev Tools**: Docker, Git, GitHub | **Web Technologies**: HTML, CSS, Bootstrap | **Other Tools**: SQLAlchemy, Celery, Postman
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 Education & Courses
+
+| Course Name                                      | Platform  | Date       |
+|--------------------------------------------------|-----------|------------|
+| Programming for Everybody (Python)               | Coursera  | May 2023   |
+| Python Backend Web Development                   | Udemy     | July 2023  |
+
+---
+
+## 📞 Let's Connect!
+
+- ✉️ **Email**: [your-email@example.com]
+- 💼 **LinkedIn**: [Your LinkedIn Profile]
+- 🌐 **GitHub**: [GitHub Profile Link]
+- 💼 **Kwork**: [Link to Kwork Profile]
+
+---
+
+## 📊 GitHub Stats
 
 ![Jamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamalPolchayev&show_icons=true&theme=tokyonight)
