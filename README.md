@@ -61,10 +61,11 @@ Let’s build something awesome together!
 
 ## 🎓 Completed Courses
 
-| Course Name                                             | Platform     | Certificate                              | Date       |
-|---------------------------------------------------------|--------------|------------------------------------------|------------|
-| Programming for Everybody (Getting Started with Python) | Coursera     | [View Certificate]assets/Coursera 5CYHVY83N5DJ.pdf| May 2023   |
-| Python Backend Web Development                          | Udemy        | [View Certificate](LINK_TO_2ND_CERT)     | July 2023  |
+| Course Name                                             | Platform     | Certificate                                                                 | Date       |
+|---------------------------------------------------------|--------------|-----------------------------------------------------------------------------|------------|
+| Programming for Everybody (Getting Started with Python) | Coursera     | [View Certificate](https://raw.githubusercontent.com/JamalPolchayev/JamalPolchayev/main/assets/Coursera%205CYHVY83N5DJ.pdf) | May 2023   |
+| Python Backend Web Development                          | Udemy        | [View Certificate](LINK_TO_2ND_CERT)                                         | July 2023  |
+
 
 ---
 
