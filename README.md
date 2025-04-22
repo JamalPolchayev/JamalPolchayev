@@ -1,55 +1,38 @@
 # 👋 Hi, I'm Jamal
 
-I’m a Python backend developer who loves building robust, scalable web applications. Whether it’s working with frameworks like **Flask** and **Django**, or managing databases with **PostgreSQL**, I’m passionate about creating clean, efficient solutions.
+---
 
-I’m always excited to learn new technologies and improve my skills. Currently, I’m diving deeper into **API development**, **automated testing**, and **advanced Python techniques**.
+## 🧑‍💻 About Me
+
+I'm a Python developer with experience in backend web development. I specialize in **Flask**, **Django**, and database management with **PostgreSQL** and **SQLite**. I enjoy building scalable web applications and working with APIs. 
+
+Currently, I'm focused on improving my skills in **Object-Oriented Programming (OOP)**, **API development (FastAPI)**, and **automated testing (pytest)**.
 
 ---
 
-## 🚀 What I Do
+## 🎓 Courses
 
-- **Backend Development**: Building applications using **Flask** and **Django**.
-- **Databases**: Designing and managing **PostgreSQL**, **SQLite** databases.
-- **APIs**: Creating RESTful APIs with **Flask** and **FastAPI**.
-- **Testing**: Writing automated tests with **pytest** to ensure high-quality code.
+| Course Name                                             | Platform     | Certificate                                                                 | Date       |
+|---------------------------------------------------------|--------------|-----------------------------------------------------------------------------|------------|
+| Programming for Everybody (Getting Started with Python) | Coursera     | [View Certificate](https://github.com/JamalPolchayev/JamalPolchayev/blob/main/assets/Coursera%205CYHVY83N5DJ.pdf) | May 2023   |
+| Python Backend Web Development                          | Udemy        | [View Certificate](https://github.com/JamalPolchayev/JamalPolchayev/blob/main/assets/udemy%20python%20certificate.pdf) | May 2024   |
 
 ---
 
-## 🛠️ Technologies I Use
+## 🛠️ Skills
 
-- **Languages**: Python, JavaScript  
-- **Frameworks**: Flask, Django, FastAPI  
+- **Backend**: Flask, Django, FastAPI  
 - **Databases**: PostgreSQL, SQLite  
-- **Dev Tools**: Docker, Git, GitHub  
-- **Web Technologies**: HTML, CSS, Bootstrap  
-- **Others**: SQLAlchemy, Celery, Postman
+- **Version Control**: Git, GitHub  
+- **Containerization**: Docker  
+- **Testing**: Pytest  
+- **Linux**: WSL (Windows Subsystem for Linux)
 
 ---
 
-## 🖥️ Quick Tech Summary
+## 📬 Contact
 
-**Languages**: Python, JavaScript | **Frameworks**: Flask, Django, FastAPI | **Databases**: PostgreSQL, SQLite | **Dev Tools**: Docker, Git, GitHub | **Web Technologies**: HTML, CSS, Bootstrap | **Other Tools**: SQLAlchemy, Celery, Postman
-
----
-
-## 🎓 Education & Courses
-
-| Course Name                                      | Platform  | Date       |
-|--------------------------------------------------|-----------|------------|
-| Programming for Everybody (Python)               | Coursera  | May 2023   |
-| Python Backend Web Development                   | Udemy     | July 2023  |
-
----
-
-## 📞 Let's Connect!
-
-- ✉️ **Email**: [your-email@example.com]
-- 💼 **LinkedIn**: [Your LinkedIn Profile]
-- 🌐 **GitHub**: [GitHub Profile Link]
-- 💼 **Kwork**: [Link to Kwork Profile]
-
----
-
-## 📊 GitHub Stats
-
-![Jamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamalPolchayev&show_icons=true&theme=tokyonight)
+You can reach out to me for job opportunities or collaborations:  
+✉️ [Email](mailto:your-email@example.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
+🔗 [GitHub](https://github.com/JamalPolchayev)
