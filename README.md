@@ -1,49 +1,76 @@
-# *Hi there, my name is Jamal*
+# 👋 Hi there, I'm Jamal
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-👋 Hello! My name is Jamal. I'm a passionate Python developer with a keen interest in web development. I recently completed learning Python and have been exploring its various applications, including web development with Flask.
+I'm a Python developer focused on backend and web development.  
+I enjoy building clean and efficient web applications using Flask, SQLAlchemy, and REST APIs.
 
-🐍 I have a solid understanding of the Python programming language and can comfortably develop small projects using the Flask framework. Whether it's building web applications or handling HTTP requests, I enjoy leveraging the simplicity and flexibility of Flask to bring ideas to life.
+🔹 I have hands-on experience with:
+- Creating backend apps using Flask and Django
+- Working with databases like SQLite and PostgreSQL
+- Git, GitHub, Docker (basic), and Linux (via WSL)
+- Making and testing HTTP requests via Postman
 
-💻 Additionally, I have a basic knowledge of HTML and CSS, which allows me to create simple and clean user interfaces for my Flask applications. I'm familiar with handling HTTP requests, which enables me to interact with external APIs and integrate various services into my projects.
+🌱 Currently, I'm diving deeper into:
+- Object-Oriented Programming (OOP)
+- Automated testing with `pytest`
+- API development using FastAPI
 
-🌱 I'm continuously learning and expanding my skills, eager to explore new technologies and deepen my understanding of software development. If you're interested in collaborating or have any questions, feel free to reach out to me!
+💬 I'm open to internships, junior developer roles, and collaborative projects.  
+Let’s build something awesome together!
 
 ---
 
-## Language and Tools
+## 🚀 Projects
 
-[![Python](https://img.shields.io/badge/Python%20-%20lightblue?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Flask](https://img.shields.io/badge/Flask%20-%20Grey?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/)
-[![HTML5](https://img.shields.io/badge/Html5-orange?style=for-the-badge&logo=Html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
-[![CSS](https://img.shields.io/badge/Css%20-%20blue?style=for-the-badge&logo=Css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![SQLAlchemy](https://img.shields.io/badge/SQlalchemy%20-%20darkred?style=for-the-badge&logo=SqlAlchemy)](https://www.sqlalchemy.org/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%20purple?style=for-the-badge&logo=Bootstrap)](https://getbootstrap.com/)
-[![Git](https://img.shields.io/badge/Git%20-%20orange?style=for-the-badge&logo=Git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/Github%20-%20black?style=for-the-badge&logo=Github)](https://github.com/)
+- 📦 **Flask Expense Tracker API**  
+  RESTful API for managing personal expenses  
+  Stack: Flask, SQLAlchemy, PostgreSQL, Docker  
+  🔗 [GitHub](https://github.com/yourusername/expense-tracker-api)
 
-## My Completed Courses
+- 🛍️ **Django E-commerce Site**  
+  A simple online store with cart, auth, and admin panel  
+  Stack: Django, Bootstrap, SQLite  
+  🔗 [GitHub](https://github.com/yourusername/django-store)
 
-| Course Name                                          | Certificate                                                | Completion Date |
-|------------------------------------------------------|------------------------------------------------------------|-----------------|
-| Programming for Everybody (Getting Started with Python) | [Download Certificate](./assets/Coursera%205CYHVY83N5DJ.pdf) | 22.05.2023      |
+- 🧪 **Weather Dashboard App**  
+  Flask app that pulls weather data from external API  
+  Stack: Flask, OpenWeather API, HTML/CSS  
+  🔗 [GitHub](https://github.com/yourusername/weather-dashboard)
 
+---
 
+## 🛠️ Languages & Tools
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
+---
 
+## 🎓 Completed Courses
 
+| Course Name                                             | Platform     | Certificate                              | Date       |
+|---------------------------------------------------------|--------------|------------------------------------------|------------|
+| Programming for Everybody (Getting Started with Python) | Coursera     | [View Certificate](LINK_TO_COURSE_PDF)   | May 2023   |
+| Python Backend Web Development                          | Udemy        | [View Certificate](LINK_TO_2ND_CERT)     | July 2023  |
 
+---
 
+## 📈 GitHub Stats
 
+![Jamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
-
-
-
-
-
-
+---
 
