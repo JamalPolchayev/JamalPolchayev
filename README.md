@@ -4,11 +4,12 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Python developer** with a focus on **backend** and **web development**.  
-I have hands-on experience building **RESTful APIs** and **web applications** using frameworks like **Flask** and **Django**. I love solving complex problems and am always looking for ways to improve my skills.
+I'm a **Python backend developer** passionate about building scalable and maintainable web applications.  
+I specialize in **Flask**, **Django**, and RESTful API development, and enjoy crafting clean, efficient backend systems.  
 
-💬 I’m open to **internships**, **junior developer roles**, and **collaborative projects**.  
-Let’s build something awesome together!
+💬 I'm also experienced in developing **Telegram bots**, integrating third-party APIs, and working with databases.  
+🧠 Always learning and improving — I love solving real-world problems through code.  
+🌱 Open to **internships**, **junior developer positions**, and **collaborative open-source projects**. Let's connect and create something impactful!
 
 ---
 
@@ -26,6 +27,7 @@ Let’s build something awesome together!
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Aiogram](https://img.shields.io/badge/Aiogram-2C2F34?style=for-the-badge&logo=telegram&logoColor=white)](https://docs.aiogram.dev/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -50,8 +52,7 @@ Let’s build something awesome together!
 
 ## 📬 Contact
 
-Feel free to reach out to me for any collaborations, job opportunities, or just to chat about Python and tech!  
-You can reach me at:  
-✉️ [Email](mailto:polchayevc@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/jamal-polchayev-b38513364/)
+Feel free to reach out for collaborations, job opportunities, or just to talk tech!  
+📧 [polchayevc@gmail.com](mailto:polchayevc@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jamal-polchayev-b38513364/)  
 🔗 [GitHub](https://github.com/JamalPolchayev)
