@@ -7,7 +7,7 @@
 I'm a **Python backend developer** passionate about building scalable and maintainable web applications.  
 I specialize in **Flask**, **Django**, and RESTful API development, and enjoy crafting clean, efficient backend systems.  
 
-💬 I'm also experienced in developing **Telegram bots**, integrating third-party APIs, and working with databases.  
+💬 I'm also experienced in developing **Telegram bots** using the `python-telegram-bot` library, integrating third-party APIs, and working with databases.  
 🧠 Always learning and improving — I love solving real-world problems through code.  
 🌱 Open to **internships**, **junior developer positions**, and **collaborative open-source projects**. Let's connect and create something impactful!
 
@@ -27,7 +27,7 @@ I specialize in **Flask**, **Django**, and RESTful API development, and enjoy cr
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Aiogram](https://img.shields.io/badge/Aiogram-2C2F34?style=for-the-badge&logo=telegram&logoColor=white)](https://docs.aiogram.dev/)
+[![python-telegram-bot](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/python-telegram-bot/python-telegram-bot)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -45,7 +45,7 @@ I specialize in **Flask**, **Django**, and RESTful API development, and enjoy cr
 
 ## 📈 GitHub Stats
 
-![Jamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamalPolchayev&show_icons=true&theme=tokyonight)
+![Jamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JamalPolchayev&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamalPolchayev&layout=compact&theme=tokyonight)
 
 ---
