@@ -53,5 +53,5 @@ Let’s build something awesome together!
 Feel free to reach out to me for any collaborations, job opportunities, or just to chat about Python and tech!  
 You can reach me at:  
 ✉️ [Email](mailto:polchayevc@gmail.com)  
-🔗 [LinkedIn]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/jamal-polchayev-b38513364/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/jamal-polchayev-b38513364/)
 🔗 [GitHub](https://github.com/JamalPolchayev)
