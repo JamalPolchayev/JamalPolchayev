@@ -53,6 +53,6 @@ I specialize in **Flask**, **Django**, and RESTful API development, and enjoy cr
 ## 📬 Contact
 
 Feel free to reach out for collaborations, job opportunities, or just to talk tech!  
-🔗 [jamalpolchayev@gmail.com](mailto:jamalpolchayev@gmail.com)  
+✉️ [jamalpolchayev@gmail.com](mailto:jamalpolchayev@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/jamal-polchayev-b38513364/)  
 🔗 [GitHub](https://github.com/JamalPolchayev)
